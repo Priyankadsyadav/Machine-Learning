@@ -1,0 +1,204 @@
+{
+  "build": "py312h72d21ff_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "python >=3.12,<3.13.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0",
+    "winpty >=0.4.3,<1.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Priyanka\\anaconda3\\pkgs\\pywinpty-2.0.15-py312h72d21ff_0",
+  "files": [
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/INSTALLER",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/METADATA",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/RECORD",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/REQUESTED",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/WHEEL",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/direct_url.json",
+    "Lib/site-packages/pywinpty-2.0.15.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/winpty/__init__.py",
+    "Lib/site-packages/winpty/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/winpty/__pycache__/enums.cpython-312.pyc",
+    "Lib/site-packages/winpty/__pycache__/ptyprocess.cpython-312.pyc",
+    "Lib/site-packages/winpty/enums.py",
+    "Lib/site-packages/winpty/ptyprocess.py",
+    "Lib/site-packages/winpty/tests/__init__.py",
+    "Lib/site-packages/winpty/tests/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/winpty/tests/__pycache__/test_pty.cpython-312.pyc",
+    "Lib/site-packages/winpty/tests/__pycache__/test_ptyprocess.cpython-312.pyc",
+    "Lib/site-packages/winpty/tests/test_pty.py",
+    "Lib/site-packages/winpty/tests/test_ptyprocess.py",
+    "Lib/site-packages/winpty/winpty.cp312-win_amd64.pyd",
+    "Lib/site-packages/winpty/winpty.pyi"
+  ],
+  "fn": "pywinpty-2.0.15-py312h72d21ff_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Priyanka\\anaconda3\\pkgs\\pywinpty-2.0.15-py312h72d21ff_0",
+    "type": 1
+  },
+  "md5": "c6c2c110a5f47b4f6d5052c5465a501c",
+  "name": "pywinpty",
+  "package_tarball_full_path": "C:\\Users\\Priyanka\\anaconda3\\pkgs\\pywinpty-2.0.15-py312h72d21ff_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pywinpty-2.0.15.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/pywinpty-2.0.15.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2278535d25f876ba5f30eb81be280f258fcaa126731bd0e4d44f4e8f64a01893",
+        "sha256_in_prefix": "2278535d25f876ba5f30eb81be280f258fcaa126731bd0e4d44f4e8f64a01893",
+        "size_in_bytes": 5064
+      },
+      {
+        "_path": "Lib/site-packages/pywinpty-2.0.15.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "340dca9abe011bcb271bae2f763e36943c3ffd0dd51b14b9d9cbaf18883c543a",
+        "sha256_in_prefix": "340dca9abe011bcb271bae2f763e36943c3ffd0dd51b14b9d9cbaf18883c543a",
+        "size_in_bytes": 1548
+      },
+      {
+        "_path": "Lib/site-packages/pywinpty-2.0.15.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pywinpty-2.0.15.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ffe2ac15120019792a03cd26169512615655862434f81ec2dd829122270ee39a",
+        "sha256_in_prefix": "ffe2ac15120019792a03cd26169512615655862434f81ec2dd829122270ee39a",
+        "size_in_bytes": 96
+      },
+      {
+        "_path": "Lib/site-packages/pywinpty-2.0.15.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a4b598a2b6ef8ec4f50e352d698dd91a9af19b082b46cc01e12d3428a13bfe78",
+        "sha256_in_prefix": "a4b598a2b6ef8ec4f50e352d698dd91a9af19b082b46cc01e12d3428a13bfe78",
+        "size_in_bytes": 88
+      },
+      {
+        "_path": "Lib/site-packages/pywinpty-2.0.15.dist-info/licenses/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "0aa57a7c7462b45437cc239c3c037f19bfb163f8caa053b276c368253a5d10f7",
+        "sha256_in_prefix": "0aa57a7c7462b45437cc239c3c037f19bfb163f8caa053b276c368253a5d10f7",
+        "size_in_bytes": 1067
+      },
+      {
+        "_path": "Lib/site-packages/winpty/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7129052418d3616560ece2595f7d88e5bade71ec4462bf4e6489f2db227e1c68",
+        "sha256_in_prefix": "7129052418d3616560ece2595f7d88e5bade71ec4462bf4e6489f2db227e1c68",
+        "size_in_bytes": 379
+      },
+      {
+        "_path": "Lib/site-packages/winpty/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "7c2c6b13567474bf740b2e3c8c9cc990ed2427e1aa40de1e9d2c9863d63a3432",
+        "sha256_in_prefix": "7c2c6b13567474bf740b2e3c8c9cc990ed2427e1aa40de1e9d2c9863d63a3432",
+        "size_in_bytes": 549
+      },
+      {
+        "_path": "Lib/site-packages/winpty/__pycache__/enums.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "28aa8de349c4ec578bf1cacca20fa0fe72c9aa7f5bd18adb7a41a66366cb8a94",
+        "sha256_in_prefix": "28aa8de349c4ec578bf1cacca20fa0fe72c9aa7f5bd18adb7a41a66366cb8a94",
+        "size_in_bytes": 1373
+      },
+      {
+        "_path": "Lib/site-packages/winpty/__pycache__/ptyprocess.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "03498239537178b32e317c8bdb9b592f77bcee318abb1f4b4f4eace2a17914d0",
+        "sha256_in_prefix": "03498239537178b32e317c8bdb9b592f77bcee318abb1f4b4f4eace2a17914d0",
+        "size_in_bytes": 15267
+      },
+      {
+        "_path": "Lib/site-packages/winpty/enums.py",
+        "path_type": "hardlink",
+        "sha256": "2f64cd5e1180d8ba1bb02a53c754e6f42ec28e0fbd3b99fd786382feb8632516",
+        "sha256_in_prefix": "2f64cd5e1180d8ba1bb02a53c754e6f42ec28e0fbd3b99fd786382feb8632516",
+        "size_in_bytes": 1805
+      },
+      {
+        "_path": "Lib/site-packages/winpty/ptyprocess.py",
+        "path_type": "hardlink",
+        "sha256": "4609463a840b77573e6a0737403a92ce7b49f5877315bab88722bc430855da2a",
+        "sha256_in_prefix": "4609463a840b77573e6a0737403a92ce7b49f5877315bab88722bc430855da2a",
+        "size_in_bytes": 11656
+      },
+      {
+        "_path": "Lib/site-packages/winpty/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "81620409e268e07dce5bf7c253d77f207eca463101216e79a3e8fafa6cfd702c",
+        "sha256_in_prefix": "81620409e268e07dce5bf7c253d77f207eca463101216e79a3e8fafa6cfd702c",
+        "size_in_bytes": 51
+      },
+      {
+        "_path": "Lib/site-packages/winpty/tests/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "527d439013c919cc7cba3c6c042ab3034ef0fd5b645dfb62ed31ddae5cb7feaa",
+        "sha256_in_prefix": "527d439013c919cc7cba3c6c042ab3034ef0fd5b645dfb62ed31ddae5cb7feaa",
+        "size_in_bytes": 174
+      },
+      {
+        "_path": "Lib/site-packages/winpty/tests/__pycache__/test_pty.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "b7426500d4551b55bd51f7109d528697ea01f882cd4c50083412d9e31ca767a5",
+        "sha256_in_prefix": "b7426500d4551b55bd51f7109d528697ea01f882cd4c50083412d9e31ca767a5",
+        "size_in_bytes": 5628
+      },
+      {
+        "_path": "Lib/site-packages/winpty/tests/__pycache__/test_ptyprocess.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "022690a1f04854fda8b3e0d82a76787eb93c1d073248e726743231a011ff5ebc",
+        "sha256_in_prefix": "022690a1f04854fda8b3e0d82a76787eb93c1d073248e726743231a011ff5ebc",
+        "size_in_bytes": 11083
+      },
+      {
+        "_path": "Lib/site-packages/winpty/tests/test_pty.py",
+        "path_type": "hardlink",
+        "sha256": "a6fed575e3506e1396d49b6c58d6f162cc6f86c2b3c231be5764d0b60a4b0724",
+        "sha256_in_prefix": "a6fed575e3506e1396d49b6c58d6f162cc6f86c2b3c231be5764d0b60a4b0724",
+        "size_in_bytes": 3566
+      },
+      {
+        "_path": "Lib/site-packages/winpty/tests/test_ptyprocess.py",
+        "path_type": "hardlink",
+        "sha256": "b76bc8222c8d4c219bd115f0a809a3d318ef8c9753746de24663fd301e3a2428",
+        "sha256_in_prefix": "b76bc8222c8d4c219bd115f0a809a3d318ef8c9753746de24663fd301e3a2428",
+        "size_in_bytes": 5655
+      },
+      {
+        "_path": "Lib/site-packages/winpty/winpty.cp312-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "79b6461059f7b478be04d136f1c18dee20c448fde7a4c1b1d26b44c592526002",
+        "sha256_in_prefix": "79b6461059f7b478be04d136f1c18dee20c448fde7a4c1b1d26b44c592526002",
+        "size_in_bytes": 534288
+      },
+      {
+        "_path": "Lib/site-packages/winpty/winpty.pyi",
+        "path_type": "hardlink",
+        "sha256": "5d166336e5563f103a05dd3f0d6af4007db1d36502e8d7f232d652ca43279780",
+        "sha256_in_prefix": "5d166336e5563f103a05dd3f0d6af4007db1d36502e8d7f232d652ca43279780",
+        "size_in_bytes": 1366
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8d119ef3de35de978e3fb0a86a9f86d1f814c1b3272a4f840946fe37cc071304",
+  "size": 240040,
+  "subdir": "win-64",
+  "timestamp": 1741873014000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pywinpty-2.0.15-py312h72d21ff_0.conda",
+  "version": "2.0.15"
+}
